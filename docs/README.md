@@ -1,1 +1,1 @@
-Docs for calculate.py
+Updated documentation for GitHub
